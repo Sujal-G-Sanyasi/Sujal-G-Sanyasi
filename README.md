@@ -1,10 +1,6 @@
-<!-- Dynamic Gradient Banner -->
+<!-- Dynamic Banner -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krnfx/Krnfx/main/banner-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krnfx/Krnfx/main/banner-light.gif">
-    <img src="https://raw.githubusercontent.com/Krnfx/Krnfx/main/banner.gif" alt="Dynamic Banner" style="width: 100%; max-width: 900px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  </picture>
+  <img src="https://images.genius.com/avatars/medium/8754e51ff7af5f9662a97a08d5804a8d" alt="Dynamic Banner" style="width: 100%; max-width: 900px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 </div>
 
 <br>
