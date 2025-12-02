@@ -84,6 +84,8 @@
 
 <div align="center">
 
+
+ <img src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=react&combine_all_yearly_contributions=true" />
   <!-- GitHub Stats Summary -->
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats"/>
 
