@@ -104,12 +104,13 @@
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/b1355129-8ae4-4eaf-87ac-6d366c5d07c4"
+    src="https://github.com/user-attachments/assets/6d525599-62b7-4133-9943-ba46c6f23dfd"
     width="90"
     height="200"
     alt="Jotaro"
   />
 </p>
+
 
 
 
