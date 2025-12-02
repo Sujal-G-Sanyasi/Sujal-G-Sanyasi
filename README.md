@@ -1,34 +1,31 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sujal-G-Sanyasi.Sujal-G-Sanyasi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sujal!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate AI/ML developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **AI projects**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **TensorFlow, Transformers, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, ML, NLP, DS... or anything else**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **My code works 70% of the time. The other 30% is emotional damage.**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:sujalsanyasi1324562@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/sujal-sanyasi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,8 +34,36 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+
+<!-- ======== AI/ML SKILLS ======== -->
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-008080?style=plastic&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-9B59B6?style=plastic&logo=google-translate&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=plastic&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/NLTK-026937?style=plastic&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black" />
+
+<br/>
+
+<!-- ======== DATABASES & BACKEND ======== -->
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=black" />
+
+<!-- ======== DEVOPS + CLOUD ======== -->
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=plastic&logo=netlify&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
+
 </div>
 
 <br/>
@@ -47,8 +72,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sujal-G-Sanyasi/Sujal-G-Sanyasi/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -57,10 +81,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal-G-Sanyasi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sujal-G-Sanyasi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-G-Sanyasi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+
 </div>
 
 <br/><br/>
