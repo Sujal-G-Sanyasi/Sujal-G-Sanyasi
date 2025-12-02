@@ -92,11 +92,6 @@
 
   <br/><br/>
 
-  <!-- Top Languages by Repositories -->
-  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujal-G-Sanyasi&theme=react" alt="repo languages"/>
-
-  <!-- Most Used Languages by Commits -->
-  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujal-G-Sanyasi&theme=react" alt="commit languages"/>
 
 </div>
 
