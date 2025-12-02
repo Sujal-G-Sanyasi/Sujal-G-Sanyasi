@@ -104,7 +104,7 @@
 
 <p align="center">
   <img 
-    src="https://media1.tenor.com/images/f7e238f24fdd5e91e203dfb54b6bde33/tenor.gif"
+    src="https://tenor.com/view/anime-jotaro-jjba-jojo-yare-gif-12243323"
     width="90"
     height="200"
     alt="Jotaro Yare"
