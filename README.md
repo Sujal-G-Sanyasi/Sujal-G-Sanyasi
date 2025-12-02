@@ -1,6 +1,6 @@
 <!-- Dynamic Banner -->
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9c321963647945.5ab7edc24e2c8.gif" alt="Dynamic Banner" style="width: 100%; max-width: 1200px; height: 120px; object-fit: cover; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" loading="eager">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qSD/giphy.gif" alt="Dynamic Banner" style="width: 100%; max-width: 1200px; height: 120px; object-fit: cover; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" loading="eager">
 </div>
 
 <br>
