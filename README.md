@@ -104,12 +104,13 @@
 
 <p align="center">
   <img 
-    src="https://media.tenor.com/_4kFhSEuxpAAAAAC/jotaro-yare.gif"
+    src="https://media1.tenor.com/images/f7e238f24fdd5e91e203dfb54b6bde33/tenor.gif"
     width="90"
     height="200"
     alt="Jotaro Yare"
   />
 </p>
+
 
 
 <br/><br/>
