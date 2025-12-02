@@ -85,22 +85,25 @@
 <div align="center">
 
   <!-- Contributor Stats -->
-  <img width="450"
+  <img 
        src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=react&combine_all_yearly_contributions=true&include_repositories=true"
        alt="contributor stats"
+       width="430"
+       style="margin-right: 10px;"
   />
 
-  <br/><br/>
-
-  <!-- GitHub Summary Stats -->
-  <img width="450"
+  <!-- GitHub Stats Summary -->
+  <img 
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react"
        alt="summary stats"
+       width="430"
+       style="margin-left: 10px;"
   />
 
 </div>
 
 <br/><br/>
+
 
 <br/><br/>
 
