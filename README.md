@@ -83,17 +83,20 @@
 <table align="center">
   <tr>
     <td align="center">
+      <!-- Contributor Stats (gold theme) -->
       <img width="430"
-        src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=react&combine_all_yearly_contributions=true&include_repositories=true"
+        src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=solarized&combine_all_yearly_contributions=true&include_repositories=true"
       />
     </td>
     <td align="center">
+      <!-- GitHub Summary Stats (gold theme) -->
       <img width="430"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=solarized"
       />
     </td>
   </tr>
 </table>
+
 
 
 
