@@ -1,6 +1,6 @@
 <!-- Dynamic Banner -->
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9c321963647945.5ab7edc24e2c8.gif" alt="Dynamic Banner" style="width: 100%; max-width: 1200px; height: 200px; object-fit: cover; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" loading="eager">
+  <img src="68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f39633332313936333634373934352e356162376564633234653263382e676966.gif" alt="Dynamic Banner" style="width: 100%; max-width: 1200px; height: 120px; object-fit: cover; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" loading="eager">
 </div>
 
 <br>
