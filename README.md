@@ -1,20 +1,20 @@
-<!-- 🌸 Anime GIF Banner -->
+<!--  Anime GIF Banner -->
 <p align="center">
   <img src="https://media.tenor.com/4Z3JQX6d2uEAAAAC/anime-city.gif" width="800"/>
 </p>
 
-<h1 align="center">🌸 Hey, I'm <strong>Krnfx</strong> 🌸</h1>
+<h1 align="center"> Hey, I'm <strong>Krnfx</strong> </h1>
 <p align="center">AI/ML Engineer • NLP Wizard • Transformer Enjoyer</p>
 
 ---
 
-## ✨ About Me  
+## About Me  
 I build ML & NLP systems, vibe with transformers, and break code at 3AM until it magically works again.  
 Currently leveling up in AI, DS, deep learning, and all things anime-coded.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="left">
 
