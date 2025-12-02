@@ -1,6 +1,6 @@
 <!-- Dynamic Banner -->
 <div align="center">
-  <img src="https://64.media.tumblr.com/c6872a0118e73908c8523fbafede158b/tumblr_oz3l83lbxW1vghtqoo1_1280.gif" alt="Dynamic Banner" style="width: 100%; max-width: 1200px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" loading="eager">
+  <img src="https://i.imgur.com/8BQkFt9.gif" alt="Dynamic Banner" style="width: 100%; max-width: 900px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" loading="eager">
 </div>
 
 <br>
@@ -125,7 +125,6 @@ I engineer intelligent systems that bridge human language and machine understand
     <strong>Building the future, one commit at a time</strong>
   </p>
 </div>
-
 
 
 
