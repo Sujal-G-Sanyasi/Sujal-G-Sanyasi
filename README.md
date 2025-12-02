@@ -84,12 +84,6 @@
 
 <div align="center">
 
-<!-- Accurate Python LOC -->
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-G-Sanyasi&layout=compact&theme=react" />
-
-<!-- Nice-looking repo-language distribution -->
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujal-G-Sanyasi&theme=react" />
-
   <!-- GitHub Stats Summary -->
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats"/>
 
