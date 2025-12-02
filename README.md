@@ -88,7 +88,7 @@
       <img width="430"
         src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=great_gatsby&combine_all_yearly_contributions=true&include_repositories=true"
         alt="contributor stats"
-      />
+      />[[
 
     </td>
     <td align="center">
@@ -103,7 +103,7 @@
   </tr>
 </table>
 
-<br/><br/>
+
 
 
 
