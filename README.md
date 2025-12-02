@@ -104,12 +104,13 @@
 
 <p align="center">
   <img 
-    src="https://tenor.com/view/anime-jotaro-jjba-jojo-yare-gif-12243323"
+    src="https://github.com/user-attachments/assets/b05750b2-162b-4753-b792-157374086985"
     width="90"
     height="200"
-    alt="Jotaro Yare"
+    alt="Jotaro"
   />
 </p>
+
 
 
 
