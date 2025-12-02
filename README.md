@@ -78,21 +78,28 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
+<h2 align="center"> Statistics </h2>
 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal-G-Sanyasi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<div align="center">
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sujal-G-Sanyasi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!--  Streak Stats (Most stable version) -->
+  <img width=390 src="https://streak-stats.demolab.com/?user=Sujal-G-Sanyasi&theme=react&border_radius=10" alt="streak stats"/>
+
+  <!--  GitHub Stats (New stable mirror, not rate-limited) -->
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats" />
 
   <br/>
 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-G-Sanyasi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <!--  Top Languages (stable mirror) -->
+  <img width=325 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujal-G-Sanyasi&theme=react" alt="repo langs" />
+
+  <br/>
+
+  <!--  LOC (Lines of Code) -->
+  <img width=325 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujal-G-Sanyasi&theme=react" alt="loc stats" />
 
 </div>
-
-<br/><br/>
+<br/><br/
 
 
 
