@@ -1,6 +1,6 @@
 <!-- Dynamic Banner -->
 <div align="center">
-  <img src="https://images.genius.com/avatars/medium/8754e51ff7af5f9662a97a08d5804a8d" alt="Dynamic Banner" style="width: 100%; max-width: 900px; height: 150px; object-fit: cover; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <img src="https://images.genius.com/avatars/medium/8754e51ff7af5f9662a97a08d5804a8d" alt="Dynamic Banner" style="width: 100%; max-width: 900px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 </div>
 
 <br>
