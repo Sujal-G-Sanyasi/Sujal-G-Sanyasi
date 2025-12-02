@@ -37,8 +37,11 @@
 <h2 align="center">🛠️ Tech Arsenal 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,pandas,numpy,plotly" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,aws,netlify,vercel" /><br>
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
+<br/>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=plastic&logo=huggingface&logoColor=black) ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=plastic&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-009900?style=plastic&logo=nltk&logoColor=white) ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-000000?style=plastic&logo=netlify&logoColor=00C7B7) ![Vercel](https://img.shields.io/badge/vercel-000000?style=plastic&logo=vercel&logoColor=white)
 </div>
 
 <br/>
