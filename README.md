@@ -102,7 +102,7 @@
   </tr>
 </table>
 <p align="center">
-  <img width="100%" src="YOUR_BANNER_LINK_HERE" alt="banner" />
+  <img width="100%" src="https://i.imgur.com/LmU0UAp.gif" alt="banner" />
 </p>
 <br/><br/>
 
