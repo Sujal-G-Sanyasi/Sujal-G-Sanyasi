@@ -105,7 +105,7 @@
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/b05750b2-162b-4753-b792-157374086985"
-    width="1000"
+    width="900"
     height="200"
     alt="Jotaro"
   />
