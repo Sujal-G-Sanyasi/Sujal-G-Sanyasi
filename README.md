@@ -31,7 +31,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Tech Arsenal </h2>
 <br/>
 <div align="center">
 
@@ -70,7 +70,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sujal-G-Sanyasi/Sujal-G-Sanyasi/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
@@ -79,7 +79,7 @@
 <hr/>
 
 
-<h2 align="center"><i>Statistics</i></h2>
+<h2 align="center"><i>Contributional Statistics</i></h2>
 
 <table align="center">
   <tr>
