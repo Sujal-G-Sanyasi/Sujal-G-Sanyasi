@@ -84,8 +84,7 @@
 
 <div align="center">
 
-  <!-- Replace streak with a stable stats card if streak fails -->
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats"/>
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujal-G-Sanyasi&theme=react" />
 
   <!-- GitHub Stats Summary -->
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats"/>
