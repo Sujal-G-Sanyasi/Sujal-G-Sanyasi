@@ -104,7 +104,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Sujal-G-Sanyasi/Sujal-G-Sanyasi/main/jotaro_resized.gif"
+    src="https://raw.githubusercontent.com/Sujal-G-Sanyasi/Sujal-G-Sanyasi/main/jotaro_pure.gif"
     width="900"
     height="200"
     alt="Jotaro"
