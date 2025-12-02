@@ -83,19 +83,27 @@
 <table align="center">
   <tr>
     <td align="center">
-      <!-- Contributor Stats (gold theme) -->
+
+      <!-- Contributor Stats (Great Gatsby Theme) -->
       <img width="430"
-        src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=solarized&combine_all_yearly_contributions=true&include_repositories=true"
+        src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=great_gatsby&combine_all_yearly_contributions=true&include_repositories=true"
+        alt="contributor stats"
       />
+
     </td>
     <td align="center">
-      <!-- GitHub Summary Stats (gold theme) -->
+
+      <!-- GitHub Summary Stats (Great Gatsby Theme) -->
       <img width="430"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=solarized"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=great_gatsby"
+        alt="summary stats"
       />
+
     </td>
   </tr>
 </table>
+
+<br/><br/>
 
 
 
