@@ -78,11 +78,6 @@
 
 <hr/>
 
-<h2 align="center"><i>Statistics</i></h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
 
 <h2 align="center"><i>Statistics</i></h2>
 
