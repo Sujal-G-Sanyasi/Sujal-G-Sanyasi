@@ -102,9 +102,15 @@
   </tr>
 </table>
 
-<div class="tenor-gif-embed" data-postid="12243323" data-share-method="host" data-aspect-ratio="2.525" data-width="100%"><a href="https://tenor.com/view/anime-jotaro-jjba-jojo-yare-gif-12243323">Anime Jotaro GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<p align="center">
+  <img 
+    src="https://media.tenor.com/8lvR8Vn2JfgAAAAC/anime-jotaro.gif" 
+    width="90" 
+    height="200" 
+    alt="Jotaro Yare"
+  />
 </p>
+
 <br/><br/>
 
 
