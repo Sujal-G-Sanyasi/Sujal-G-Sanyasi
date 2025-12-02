@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujal-G-Sanyasi&theme=react" />
+<img width="400" src="https://raw.githubusercontent.com/johnnyodonnell/lines-of-code-readme-badge/main/badges/Sujal-G-Sanyasi.svg" />
 
   <!-- GitHub Stats Summary -->
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats"/>
