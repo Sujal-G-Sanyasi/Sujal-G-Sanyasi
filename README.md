@@ -102,7 +102,10 @@
   </tr>
 </table>
 <p align="center">
-<img width="100%" src="https://github.com/user-attachments/assets/26d41040-967b-4213-969b-5508887a7c5b" alt="banner" />
+<p align="center">
+  <img width="100%" height="150" src="https://github.com/user-attachments/assets/26d41040-967b-4213-969b-5508887a7c5b" alt="banner" />
+</p>
+
 </p>
 <br/><br/>
 
