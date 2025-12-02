@@ -84,31 +84,31 @@
   <tr>
     <td align="center">
 
-      <!-- Contributor Stats -->
 <h2 align="center"><i>Statistics</i></h2>
 
 <table align="center">
   <tr>
     <td align="center">
 
-      <!-- Contributor Stats (Great Gatsby Theme) -->
+<!-- Contributor Stats (Great Gatsby Theme) -->
 <img width="430"
-        src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=great_gatsby&combine_all_yearly_contributions=true&include_repositories=true"
-        alt="contributor stats"
+        src="https://github-contributor-stats.vercel.app/api?username=Sujal-G-Sanyasi&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true&include_repositories=true"
       />
 
- </td>
+</td>
     <td align="center">
 
-      <!-- GitHub Summary Stats (Great Gatsby Theme) -->
-   <img width="430"
+<!-- GitHub Summary Stats (Great Gatsby Theme) -->
+<img width="430"
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=great_gatsby"
-        alt="summary stats"
       />
 
-   </td>
+</td>
   </tr>
 </table>
+
+<br/><br/>
+
 
 <br/><br/>
 
