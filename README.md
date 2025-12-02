@@ -84,8 +84,8 @@
 
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img width="400" src="https://streak-stats.demolab.com/?user=Sujal-G-Sanyasi&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- Replace streak with a stable stats card if streak fails -->
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats"/>
 
   <!-- GitHub Stats Summary -->
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujal-G-Sanyasi&theme=react" alt="summary stats"/>
