@@ -43,27 +43,22 @@ I engineer intelligent systems that bridge human language and machine understand
 
 ## <span style="color: #58a6ff;">Technical Arsenal</span>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
+<div align="center">
 
-<div style="background: rgba(35, 134, 54, 0.1); padding: 15px; border-radius: 8px; border-left: 3px solid #238636;">
-  <h4 style="color: #3fb950; margin: 0 0 10px 0;">Core Technologies</h4>
-  <code>Python</code> • <code>TensorFlow</code> • <code>PyTorch</code> • <code>Scikit-Learn</code>
-</div>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-<div style="background: rgba(139, 92, 246, 0.1); padding: 15px; border-radius: 8px; border-left: 3px solid #8b5cf6;">
-  <h4 style="color: #a371f7; margin: 0 0 10px 0;">AI & NLP</h4>
-  <code>Transformers</code> • <code>Hugging Face</code> • <code>spaCy</code> • <code>NLTK</code>
-</div>
+[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io)
+[![NLTK](https://img.shields.io/badge/NLTK-009900?style=for-the-badge&logo=nltk&logoColor=white)](https://nltk.org)
 
-<div style="background: rgba(97, 175, 239, 0.1); padding: 15px; border-radius: 8px; border-left: 3px solid #61afef;">
-  <h4 style="color: #61afef; margin: 0 0 10px 0;">Data & Storage</h4>
-  <code>PostgreSQL</code> • <code>MongoDB</code> • <code>Redis</code> • <code>Pinecone</code>
-</div>
-
-<div style="background: rgba(229, 192, 123, 0.1); padding: 15px; border-radius: 8px; border-left: 3px solid #e5c07b;">
-  <h4 style="color: #e5c07b; margin: 0 0 10px 0;">Mathematics</h4>
-  <code>Linear Algebra</code> • <code>Calculus</code> • <code>Statistics</code> • <code>Probability</code>
-</div>
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://pinecone.io)
 
 </div>
 
@@ -134,4 +129,3 @@ I engineer intelligent systems that bridge human language and machine understand
     <strong>Building the future, one commit at a time</strong>
   </p>
 </div>
-
