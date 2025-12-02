@@ -101,7 +101,9 @@
 </td>
   </tr>
 </table>
-
+<p align="center">
+  <img width="100%" src="YOUR_BANNER_LINK_HERE" alt="banner" />
+</p>
 <br/><br/>
 
 
